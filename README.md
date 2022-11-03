@@ -1,1 +1,0 @@
-# 3-DOF_Delta_Robot
